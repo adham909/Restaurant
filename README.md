@@ -1,3 +1,22 @@
+# Restaurant React App
+
+[preview](preview.jpg)
+
+## Discription
+
+Gericht website is an existing website which I have cloning it.<br>
+It is simply an restaurant web app which showing its menu and some sections which we will preview now. <br>
+This is a figma link of the website => [Link](https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma).
+
+
+# Sections of the website
+-Home 
+-About
+-Menu
+-Awards
+-Contact
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
