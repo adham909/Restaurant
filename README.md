@@ -1,6 +1,6 @@
 # Restaurant React App
 
-[preview](preview.jpg)
+![preview](preview.jpg)
 
 ## Discription
 
